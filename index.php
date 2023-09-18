@@ -14,10 +14,13 @@
 
   <h1>language_attributes </h1>
    <h3>Getting To Know Wordpress!!!!!</h3>
-  <p>Hi rizwan shaikh how are you this is a generating Html Page.</p>
+   <h3>Wordpress Coding Standards</h3>
+   <p>Hi rizwan shaikh how are you this is a generating Html Page.</p>
 
   <p> Sultan Shaikh How Are You.
   <p>If You want to successful You have to pay the price.....</p>
+
+
 
 
 </body>
