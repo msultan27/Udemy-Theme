@@ -9,7 +9,8 @@
   <title>Document </title>
 
 </head>
-<body>
+
+<body <?php body_class('Example'); ?>>
 
   <h1>language_attributes </h1>
 
